@@ -5,7 +5,7 @@ A demonstration project integrating geology, machine learning, and image process
 
 ## 🧠 Project Objective
 
-This project simulates how core imagery and associated geochemical data can be used together to build lithology classifiers. It mimics a simplified version of what core scanning AI systems (e.g., GeologicAI) aim to achieve.
+This project simulates how core imagery and associated geochemical data can be used together to build lithology classifiers. It mimics a simplified version of what core scanning AI systems aim to achieve.
 
 ## 📦 Features
 
