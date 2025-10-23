@@ -3,11 +3,11 @@
 
 A demonstration project integrating geology, machine learning, and image processing to classify core samples based on synthetic geochemical data and core imagery.
 
-## 🧠 Project Objective
+##  Project Objective
 
 This project simulates how core imagery and associated geochemical data can be used together to build lithology classifiers. It mimics a simplified version of what core scanning AI systems aim to achieve.
 
-## 📦 Features
+##  Features
 
 - Synthetic core imagery generator for Mafic, Ultramafic, and Felsic lithologies
 - Geochemical data simulation (Ni, Cu, Fe, S)
@@ -24,7 +24,7 @@ This project simulates how core imagery and associated geochemical data can be u
 - OpenCV, Pillow
 - TensorFlow/Keras (for CNNs)
 
-## 📁 File Structure
+##  File Structure
 
 ```
 CoreLithoClassifier/
@@ -39,7 +39,7 @@ CoreLithoClassifier/
 └── requirements.txt
 ```
 
-## 🚀 Next Steps
+##  Next Steps
 
 - Explore geochemical data (PCA, clustering)
 - Train CNN on core images
