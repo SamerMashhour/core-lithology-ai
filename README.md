@@ -16,7 +16,7 @@ This project simulates how core imagery and associated geochemical data can be u
 - Geochemistry-based PCA and clustering
 - CNN model to classify lithology directly from images
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python
 - NumPy, Pandas, Matplotlib
